@@ -1,4 +1,5 @@
-g++ j.cpp -ljsoncpp
+//sudo apt install libjsoncpp-dev
+//g++ j.cpp -ljsoncpp
  
 #include <jsoncpp/json/json.h>
 #include <iostream>
